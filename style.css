@@ -1,0 +1,108 @@
+/* Your existing CSS styles */
+
+.logo-bottom-center {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #f0f0f0; /* Set the background color for the container */
+    padding: 20px; /* Add some padding to space it from the content above */
+}
+
+  
+
+
+
+
+
+
+
+
+
+
+
+/* 
+body {
+    font-family: Tahoma, Arial, sans-serif;
+    overflow-x: hidden;
+    background-color: #222122;
+    color: #fcfcfc;
+    font-size: 0;
+}
+
+.message {
+    padding-top: 50px;
+    color: white;
+}
+
+.blocks {
+    padding-top: 350px;
+    text-align: center;
+}
+
+.myblockL1,
+.myblockR1,
+.myblockL2,
+.myblockR2,
+.myblockL3,
+.myblockR3,
+.myblockL4,
+.myblockR4 {
+    height: 150px;
+    width: 150px;
+    border-radius: 0;
+    display: inline-block;
+}
+
+.myunderblock1,
+.myunderblock2,
+.myunderblock3,
+.myunderblock4 {
+    height: 150px;
+    width: 300px;
+    border-radius: 0;
+    display: inline-block;
+}
+
+.myblockL1 {
+    background: #1a2bb5;
+}
+.myblockR1 {
+    background: #02a0fb;
+}
+.myblockL2 {
+    background: #5cf995;
+}
+.myblockR2 {
+    background: #fbdd05;
+}
+
+
+.myblockL3 {
+    background: #fbb401;
+}
+.myblockR3 {
+    background: #fb9001;
+}
+.myblockL4 {
+    background: #fb2650;
+}
+.myblockR4 {
+    background: #c51f58;
+}
+
+
+.myunderblock1 {
+    background: #073565;
+}
+.myunderblock2 {
+    background: #07bfb9;
+}
+.myunderblock3 {
+    background: #f96549;
+}
+.myunderblock4 {
+    background: #3f1d56;
+} */
